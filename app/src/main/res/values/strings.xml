@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SimpleComposeBusinessCard</string>
+    <string name="my_name_text">Elchyn Iskenderov</string>
+    <string name="android_developer_text">Android Developer</string>
+    <string name="number_text">+380 677 552 369</string>
+    <string name="tg_text">\@elchinnn</string>
+    <string name="email_text">elchiniskanderov@gmail.com</string>
+
+</resources>
